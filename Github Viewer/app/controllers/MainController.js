@@ -21,5 +21,6 @@
 
     $scope.username = "";
     $scope.Message = "Github Viewer";
+    $scope.repoSortOrder = "-stargazers_count";
     
 });
